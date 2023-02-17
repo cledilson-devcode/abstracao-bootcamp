@@ -1,6 +1,6 @@
 # Abstraindo Bootcamp
 
-Seguindo as orientações abaixo com as aulas, foi criado a abstração do bootcamp com as boas praticas de POO.
+Seguindo as orientações abaixo, com as aulas, foi criada a abstração do bootcamp com as boas praticas de POO em Java.
 
 <h1> Desafio: Aprenda na Prática Programação Orientada a Objetos</h1>
 
