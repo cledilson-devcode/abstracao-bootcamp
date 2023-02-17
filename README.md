@@ -1,6 +1,6 @@
-# abstracao-bootcamp
-Desafio criado a partir do bootcamp Orange Tech da dio.
+# Abstraindo Bootcamp
 
+Seguindo as orientações abaixo com as aulas, foi criado a abstração do bootcamp com as boas praticas de POO.
 
 <h1> Desafio: Aprenda na Prática Programação Orientada a Objetos</h1>
 
